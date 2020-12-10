@@ -1,0 +1,13 @@
+.footer-icons {
+  .fas,
+  .fab {
+    transition: all 0.25s ease-in-out;
+  }
+
+  .fas:hover {
+    color: white !important;
+  }
+  .fab:hover {
+    color: white !important;
+  }
+}
